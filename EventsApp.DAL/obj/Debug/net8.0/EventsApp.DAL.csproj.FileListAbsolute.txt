@@ -1,0 +1,12 @@
+C:\university\forjob\mslearn-create-razor-pages-aspnet-core\EventsApp\EventsApp.DAL\bin\Debug\net8.0\EventsApp.DAL.deps.json
+C:\university\forjob\mslearn-create-razor-pages-aspnet-core\EventsApp\EventsApp.DAL\bin\Debug\net8.0\EventsApp.DAL.dll
+C:\university\forjob\mslearn-create-razor-pages-aspnet-core\EventsApp\EventsApp.DAL\bin\Debug\net8.0\EventsApp.DAL.pdb
+C:\university\forjob\mslearn-create-razor-pages-aspnet-core\EventsApp\EventsApp.DAL\obj\Debug\net8.0\EventsApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\university\forjob\mslearn-create-razor-pages-aspnet-core\EventsApp\EventsApp.DAL\obj\Debug\net8.0\EventsApp.DAL.AssemblyInfoInputs.cache
+C:\university\forjob\mslearn-create-razor-pages-aspnet-core\EventsApp\EventsApp.DAL\obj\Debug\net8.0\EventsApp.DAL.AssemblyInfo.cs
+C:\university\forjob\mslearn-create-razor-pages-aspnet-core\EventsApp\EventsApp.DAL\obj\Debug\net8.0\EventsApp.DAL.csproj.CoreCompileInputs.cache
+C:\university\forjob\mslearn-create-razor-pages-aspnet-core\EventsApp\EventsApp.DAL\obj\Debug\net8.0\EventsApp.DAL.sourcelink.json
+C:\university\forjob\mslearn-create-razor-pages-aspnet-core\EventsApp\EventsApp.DAL\obj\Debug\net8.0\EventsApp.DAL.dll
+C:\university\forjob\mslearn-create-razor-pages-aspnet-core\EventsApp\EventsApp.DAL\obj\Debug\net8.0\refint\EventsApp.DAL.dll
+C:\university\forjob\mslearn-create-razor-pages-aspnet-core\EventsApp\EventsApp.DAL\obj\Debug\net8.0\EventsApp.DAL.pdb
+C:\university\forjob\mslearn-create-razor-pages-aspnet-core\EventsApp\EventsApp.DAL\obj\Debug\net8.0\ref\EventsApp.DAL.dll

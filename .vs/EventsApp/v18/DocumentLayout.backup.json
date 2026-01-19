@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\university\\forjob\\mslearn-create-razor-pages-aspnet-core\\Events_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{727112EC-9819-42FC-8487-5E11932B0658}|Events_App.DataAccess\\EventsApp.DataAccess.csproj|c:\\university\\forjob\\mslearn-create-razor-pages-aspnet-core\\events_app\\events_app.dataaccess\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{727112EC-9819-42FC-8487-5E11932B0658}|Events_App.DataAccess\\EventsApp.DataAccess.csproj|solutionrelative:events_app.dataaccess\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3380D9FE-B856-47A1-9FD8-057E1BC6211D}|Events_App_WebApi\\EventsApp.WebApi.csproj|c:\\university\\forjob\\mslearn-create-razor-pages-aspnet-core\\events_app\\events_app_webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3380D9FE-B856-47A1-9FD8-057E1BC6211D}|Events_App_WebApi\\EventsApp.WebApi.csproj|solutionrelative:events_app_webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3380D9FE-B856-47A1-9FD8-057E1BC6211D}|Events_App_WebApi\\EventsApp.WebApi.csproj|c:\\university\\forjob\\mslearn-create-razor-pages-aspnet-core\\events_app\\events_app_webapi\\eventsapp.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3380D9FE-B856-47A1-9FD8-057E1BC6211D}|Events_App_WebApi\\EventsApp.WebApi.csproj|solutionrelative:events_app_webapi\\eventsapp.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727112EC-9819-42FC-8487-5E11932B0658}|Events_App.DataAccess\\EventsApp.DataAccess.csproj|c:\\university\\forjob\\mslearn-create-razor-pages-aspnet-core\\events_app\\events_app.dataaccess\\eventsapp.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{727112EC-9819-42FC-8487-5E11932B0658}|Events_App.DataAccess\\EventsApp.DataAccess.csproj|solutionrelative:events_app.dataaccess\\eventsapp.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727112EC-9819-42FC-8487-5E11932B0658}|Events_App.DataAccess\\EventsApp.DataAccess.csproj|c:\\university\\forjob\\mslearn-create-razor-pages-aspnet-core\\events_app\\events_app.dataaccess\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{727112EC-9819-42FC-8487-5E11932B0658}|Events_App.DataAccess\\EventsApp.DataAccess.csproj|solutionrelative:events_app.dataaccess\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3380D9FE-B856-47A1-9FD8-057E1BC6211D}|Events_App_WebApi\\EventsApp.WebApi.csproj|c:\\university\\forjob\\mslearn-create-razor-pages-aspnet-core\\events_app\\events_app_webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3380D9FE-B856-47A1-9FD8-057E1BC6211D}|Events_App_WebApi\\EventsApp.WebApi.csproj|solutionrelative:events_app_webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3380D9FE-B856-47A1-9FD8-057E1BC6211D}|Events_App_WebApi\\EventsApp.WebApi.csproj|c:\\university\\forjob\\mslearn-create-razor-pages-aspnet-core\\events_app\\events_app_webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3380D9FE-B856-47A1-9FD8-057E1BC6211D}|Events_App_WebApi\\EventsApp.WebApi.csproj|solutionrelative:events_app_webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3380D9FE-B856-47A1-9FD8-057E1BC6211D}|Events_App_WebApi\\EventsApp.WebApi.csproj|c:\\university\\forjob\\mslearn-create-razor-pages-aspnet-core\\events_app\\events_app_webapi\\events_app_webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3380D9FE-B856-47A1-9FD8-057E1BC6211D}|Events_App_WebApi\\EventsApp.WebApi.csproj|solutionrelative:events_app_webapi\\events_app_webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\university\\forjob\\mslearn-create-razor-pages-aspnet-core\\Events_App\\Events_App_WebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Events_App_WebApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\university\\forjob\\mslearn-create-razor-pages-aspnet-core\\Events_App\\Events_App_WebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Events_App_WebApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-21T16:41:02.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\university\\forjob\\mslearn-create-razor-pages-aspnet-core\\Events_App\\Events_App.DataAccess\\User.cs",
+              "RelativeDocumentMoniker": "Events_App.DataAccess\\User.cs",
+              "ToolTip": "C:\\university\\forjob\\mslearn-create-razor-pages-aspnet-core\\Events_App\\Events_App.DataAccess\\User.cs",
+              "RelativeToolTip": "Events_App.DataAccess\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T16:41:02.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\university\\forjob\\mslearn-create-razor-pages-aspnet-core\\Events_App\\Events_App.DataAccess\\Event.cs",
+              "RelativeDocumentMoniker": "Events_App.DataAccess\\Event.cs",
+              "ToolTip": "C:\\university\\forjob\\mslearn-create-razor-pages-aspnet-core\\Events_App\\Events_App.DataAccess\\Event.cs",
+              "RelativeToolTip": "Events_App.DataAccess\\Event.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T16:41:02.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventsApp.DataAccess.csproj",
+              "DocumentMoniker": "C:\\university\\forjob\\mslearn-create-razor-pages-aspnet-core\\Events_App\\Events_App.DataAccess\\EventsApp.DataAccess.csproj",
+              "RelativeDocumentMoniker": "Events_App.DataAccess\\EventsApp.DataAccess.csproj",
+              "ToolTip": "C:\\university\\forjob\\mslearn-create-razor-pages-aspnet-core\\Events_App\\Events_App.DataAccess\\EventsApp.DataAccess.csproj",
+              "RelativeToolTip": "Events_App.DataAccess\\EventsApp.DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-21T16:41:02.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventsApp.WebApi.csproj",
+              "DocumentMoniker": "C:\\university\\forjob\\mslearn-create-razor-pages-aspnet-core\\Events_App\\Events_App_WebApi\\EventsApp.WebApi.csproj",
+              "RelativeDocumentMoniker": "Events_App_WebApi\\EventsApp.WebApi.csproj",
+              "ToolTip": "C:\\university\\forjob\\mslearn-create-razor-pages-aspnet-core\\Events_App\\Events_App_WebApi\\EventsApp.WebApi.csproj",
+              "RelativeToolTip": "Events_App_WebApi\\EventsApp.WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-21T16:41:02.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\university\\forjob\\mslearn-create-razor-pages-aspnet-core\\Events_App\\Events_App_WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "Events_App_WebApi\\appsettings.json",
+              "ToolTip": "C:\\university\\forjob\\mslearn-create-razor-pages-aspnet-core\\Events_App\\Events_App_WebApi\\appsettings.json",
+              "RelativeToolTip": "Events_App_WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-21T16:41:02.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\university\\forjob\\mslearn-create-razor-pages-aspnet-core\\Events_App\\Events_App_WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Events_App_WebApi\\Program.cs",
+              "ToolTip": "C:\\university\\forjob\\mslearn-create-razor-pages-aspnet-core\\Events_App\\Events_App_WebApi\\Program.cs",
+              "RelativeToolTip": "Events_App_WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T16:41:02.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Events_App_WebApi.http",
+              "DocumentMoniker": "C:\\university\\forjob\\mslearn-create-razor-pages-aspnet-core\\Events_App\\Events_App_WebApi\\Events_App_WebApi.http",
+              "RelativeDocumentMoniker": "Events_App_WebApi\\Events_App_WebApi.http",
+              "ToolTip": "C:\\university\\forjob\\mslearn-create-razor-pages-aspnet-core\\Events_App\\Events_App_WebApi\\Events_App_WebApi.http",
+              "RelativeToolTip": "Events_App_WebApi\\Events_App_WebApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-12-21T16:41:02.637Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
