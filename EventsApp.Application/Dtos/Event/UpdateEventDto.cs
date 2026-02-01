@@ -1,4 +1,5 @@
 ﻿
+using Microsoft.AspNetCore.Http;
 using System.ComponentModel.DataAnnotations;
 
 
@@ -18,6 +19,6 @@ namespace EventsApp.Application.Dtos.Event
 
         public int NumberOfParticipant { get; set; }
 
-        public byte[]? Image { get; set; }
+        public IFormFile? Image { get; set; }
     }
 }

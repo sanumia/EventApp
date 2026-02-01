@@ -9,6 +9,6 @@ namespace EventsApp.DataAccess.Interfaces
         Task<TEntity> UpdateAsync(TEntity entity, CancellationToken cancellationToken=default);
         Task<TEntity> DeleteAsync(Guid id, CancellationToken cancellationToken = default);
         Task<IEnumerable<TEntity>> GetAllAsync(CancellationToken cancellationToken = default);
-        Task<TEntity> GetByIdAsync(Guid id, CancellationToken cancellationToken = default);
+        Task<TEntity?> GetByIdAsync(Guid id, CancellationToken cancellationToken = default);
     }
 }

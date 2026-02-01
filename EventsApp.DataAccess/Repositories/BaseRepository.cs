@@ -46,7 +46,7 @@ namespace EventsApp.DataAccess.Repositories
             return await DbSet.ToListAsync(cancellationToken);
         }
 
-        public async Task<TEntity> GetByIdAsync(Guid id, CancellationToken cancellationToken)
+        public async Task<TEntity?> GetByIdAsync(Guid id, CancellationToken cancellationToken)
         {
             return await DbSet.FirstOrDefaultAsync(e => e.Id == id, cancellationToken);
         }

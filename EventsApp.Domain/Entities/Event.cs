@@ -14,6 +14,8 @@ namespace EventsApp.Domain.Entities
         public string? Location { get; set; }
         public string? Category { get; set; }
         public int NumberOfParticipant {  get; set; }
-        public byte[]? Image { get; set; }
+        //public byte[]? Image { get; set; }
+        public Image? Image { get; set; }
+        public Guid? ImageId { get; set; }
     }
 }
